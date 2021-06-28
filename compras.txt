@@ -3,3 +3,4 @@ Tomate
 Carne
 Pollo
 Pan
+Papas fritas
